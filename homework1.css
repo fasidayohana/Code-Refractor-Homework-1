@@ -59,10 +59,12 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("01Week/Homework/Develop/assets/images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
+
+/* div aside section */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -194,6 +196,8 @@ p {
     max-width: 150px;
 }
 
+
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
